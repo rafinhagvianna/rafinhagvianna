@@ -7,18 +7,19 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
 - 🌱 No momento estou focado em aprimorar minhas habilidades em Java e .net;
 - 📫 Entre em contato comigo: rafinhagvianna@gmail.com
 
-## 🛠️ Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
 </p>
+
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 ## 🎯 Objetivos & Contribuições
