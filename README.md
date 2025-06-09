@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lfdomenico&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&timestamp=123456789" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&timestamp=123456789" 
 />
 
 ## Objetivos & Contribuições
