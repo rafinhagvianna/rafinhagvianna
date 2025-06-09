@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Rafael Vianna
+# Olá! Eu sou o Rafael Vianna
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuições que refletem minha paixão por tecnologia e desenvolvimento.
 
-## 🚀 Sobre mim
+## Sobre mim
 - 🔭 Atualmente estou trabalhando na TataConsultancyServices como estágiario dev;
 - 🌱 No momento estou focado em aprimorar minhas habilidades em Java e .net;
 - 📫 Entre em contato comigo: rafinhagvianna@gmail.com
@@ -16,15 +16,15 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
 </p>
 
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
-## 🎯 Objetivos & Contribuições
+## Objetivos & Contribuições
 Sempre estou em busca de novas oportunidades para aprender, construir e colaborar em projetos que tragam impacto positivo. Fique à vontade para explorar meus repositórios e conectar-se comigo!
 
 ---
 
-📍 **Perfil GitHub:** [rafinhagvianna](https://github.com/rafinhagvianna)
+**Perfil GitHub:** [rafinhagvianna](https://github.com/rafinhagvianna)
