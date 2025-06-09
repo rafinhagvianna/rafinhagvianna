@@ -18,8 +18,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
 
 ## Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&timestamp=123456789"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&timestamp=123456789"/>
 </div>
 <img 
   align="left" 
