@@ -25,6 +25,3 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
 ## Objetivos & Contribuições
 Sempre estou em busca de novas oportunidades para aprender, construir e colaborar em projetos que tragam impacto positivo. Fique à vontade para explorar meus repositórios e conectar-se comigo!
 
----
-
-**Perfil GitHub:** [rafinhagvianna](https://github.com/rafinhagvianna)
