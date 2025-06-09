@@ -1,20 +1,20 @@
-# Olá! Eu sou o Rafael Vianna
-
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuições que refletem minha paixão por tecnologia e desenvolvimento.
-
-## Sobre mim
-- Atualmente estou trabalhando na TataConsultancyServices como estágiario dev;
-- No momento estou focado em aprimorar minhas habilidades em Java e .net;
-- Entre em contato comigo: rafinhagvianna@gmail.com
 
 
+# Olá, me chamo Rafael de Godoy Vianna
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=3DDC84&width=435&lines=Seja+bem-vindo+ao+meu+perfil+do+Github!;Sou+um+dev+apaixonado+por+tecnologia!;Fique+a+vontade+para+explorar+meu+perfil!) 
 
+## Sobre mim  
+- Atualmente estou trabalhando na Tata Consultancy Services como estagiário dev  
+- Curso Engenharia de Software na Universidade Tecnológica Federal do Paraná
+- No momento estou focado em aprimorar minhas habilidades em Java e .NET  
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&timestamp=123456789"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&timestamp=123456789"/>
 </div>
+
+## Tecnologias  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80"/>
@@ -23,21 +23,5 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
 </p>
 
-## Me siga nas redes sociais!
-<a href="https://www.linkedin.com/in/rafael-de-godoy-vianna-38a459317/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50">
-</a>
-
-<a href="https://mail.google.com/mail/u/0/?view=cm&to=rafinhagvianna@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="45">
-</a>
-
-<a href="https://www.instagram.com/rafinhagvianna" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50">
-</a>
-
-
-
-## Objetivos & Contribuições
-Sempre estou em busca de novas oportunidades para aprender, construir e colaborar em projetos que tragam impacto positivo. Fique à vontade para explorar meus repositórios e conectar-se comigo!
-
+## Entre em contato comigo  
+<a href="https://www.linkedin.com/in/rafael-de-godoy-vianna-38a459317/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50"></a>  <a href="https://mail.google.com/mail/u/0/?view=cm&to=rafinhagvianna@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" height="45"></a>  <a href="https://www.instagram.com/rafinhagvianna" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50"></a>  
