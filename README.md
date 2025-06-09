@@ -7,6 +7,14 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
 - No momento estou focado em aprimorar minhas habilidades em Java e .net;
 - Entre em contato comigo: rafinhagvianna@gmail.com
 
+
+
+
+## Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&timestamp=123456789"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&timestamp=123456789"/>
+</div>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80"/>
@@ -15,18 +23,24 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
 </p>
 
+## Me siga nas redes sociais!
 
-## Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&timestamp=123456789"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&timestamp=123456789"/>
-</div>
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&timestamp=123456789" 
-/>
+<a href="https://www.linkedin.com/in/rafael-de-godoy-vianna-38a459317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50">
+</a>
+
+<a href="mailto:rafinhagvianna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50">
+</a>
+
+<a href="https://www.instagram.com/rafinhagvianna">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50">
+</a>
+
+
+
+
+
 
 ## Objetivos & Contribuições
 Sempre estou em busca de novas oportunidades para aprender, construir e colaborar em projetos que tragam impacto positivo. Fique à vontade para explorar meus repositórios e conectar-se comigo!
