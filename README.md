@@ -21,6 +21,12 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuiç
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhagvianna&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 </div>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lfdomenico&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&timestamp=123456789" 
+/>
 
 ## Objetivos & Contribuições
 Sempre estou em busca de novas oportunidades para aprender, construir e colaborar em projetos que tragam impacto positivo. Fique à vontade para explorar meus repositórios e conectar-se comigo!
