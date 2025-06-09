@@ -3,9 +3,9 @@
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos e contribuições que refletem minha paixão por tecnologia e desenvolvimento.
 
 ## Sobre mim
-- 🔭 Atualmente estou trabalhando na TataConsultancyServices como estágiario dev;
-- 🌱 No momento estou focado em aprimorar minhas habilidades em Java e .net;
-- 📫 Entre em contato comigo: rafinhagvianna@gmail.com
+- Atualmente estou trabalhando na TataConsultancyServices como estágiario dev;
+- No momento estou focado em aprimorar minhas habilidades em Java e .net;
+- Entre em contato comigo: rafinhagvianna@gmail.com
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
