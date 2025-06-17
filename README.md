@@ -14,13 +14,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhagvianna&layout=compact&langs_count=7&theme=tokyonight&timestamp=123456789"/>
 </div>
 
-## Tecnologias  
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,postgres,postman,docker" />
+  </a>
 </p>
 
 ## Entre em contato comigo  
