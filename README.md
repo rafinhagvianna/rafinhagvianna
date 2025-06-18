@@ -26,11 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,postgres,postman,docker" />
-  </a>
-</p>
 
 ## Entre em contato comigo  
 <a href="https://www.linkedin.com/in/rafael-de-godoy-vianna-38a459317/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50"></a>  <a href="https://mail.google.com/mail/u/0/?view=cm&to=rafinhagvianna@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" height="45"></a>  <a href="https://www.instagram.com/rafinhagvianna" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50"></a>  
