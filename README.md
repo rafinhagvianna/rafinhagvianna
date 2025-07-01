@@ -6,7 +6,7 @@
 ## Sobre mim  
 - Atualmente estou trabalhando na Tata Consultancy Services como estagiário dev  
 - Curso Engenharia de Software na Universidade Tecnológica Federal do Paraná
-- No momento estou focado em aprimorar minhas habilidades em Java e .NET  
+- No momento estou focado em aprimorar minhas habilidades em Spring e Angular
 
 ## Estatísticas do GitHub  
 <div align="center">
