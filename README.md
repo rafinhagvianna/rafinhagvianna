@@ -17,12 +17,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,ts,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=spring,java,mysql,postman,git" />
   </a>
 </p>
 
