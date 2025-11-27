@@ -7,8 +7,7 @@
 ## Sobre mim
 
 - Estudante de Engenharia de Software na UTFPR  
-- Estagiário dev na Tata Consultancy Services  
-- Focado em aprimorar habilidades com Spring & Angular
+- Analista de testes na Tata Consultancy Services
 
 ## Minhas estatísticas
 
